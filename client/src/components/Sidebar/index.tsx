@@ -39,7 +39,7 @@ const index = () => {
                 </div>
                 {/* team */}
                 <div className='flex items-center gap-5 border-y-[1.5px] border-gray-200 px-8 py-4 dark:border-gray-700'>
-                    <Image loading="lazy" priority={false} src="/logo.png" alt='logo' width={40} height={40} />
+                    <Image loading="lazy" priority={false} src="https://pm2025-s3-images.s3.us-east-1.amazonaws.com/logo.png" alt='logo' width={40} height={40} />
                     <div>
                         <h3 className='text-md font-bold tracking-wide dark:text-gray-200'>BOOT Team</h3>
                         <div className='mt-1 flex items-start gap-2'>
